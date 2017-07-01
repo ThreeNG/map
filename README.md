@@ -28,7 +28,7 @@ Xe buýt91 - Bến xe Miền Tây - Chợ nông sản Thủ ĐứcChợ nông s�
 Dịch vụ được điều hành bởi Công ty Cổ phần Xe khách Sài Gòn
 06:22
 Ngã Tư Bình Phước
-Đi bộĐi bộ
+Đi bộĐi bộ turn back
  Khoảng 11 p , 950 m
 06:33
 	
