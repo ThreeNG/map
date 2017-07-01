@@ -33,3 +33,38 @@ Ngã Tư Bình Phước
 06:33
 	
 470 QL13
+---------------------------------------------------------
+
+05:46Đối diện 129 Đinh Tiên Hoàng
+Dịch vụ được điều hành bởi Công ty Cổ phần Xe khách Sài Gòn
+05:56
+UBND Quận Bình Thạnh
+Xe buýt55 - CVPM Quang Trung - Khu Công Nghệ Cao Q9CVPM Quang Trung
+ 13 p (13 điểm dừng)
+05:57Bệnh Viện Gia Định
+05:58PCCC quận Bình Thạnh
+05:5936A Phan Đăng Lưu
+06:0068 Phan Đăng Lưu
+06:01Ngã Tư Thích Quảng Đức
+06:02172 Phan Đăng Lưu
+06:03392 Nguyễn Kiệm
+06:04466 Nguyễn Kiệm
+06:05Ngã ba Hồ Văn Huê
+06:06Coop Mart Nguyễn Kiệm
+06:07750 Nguyễn Kiệm
+06:08780A Nguyễn Kiệm
+Dịch vụ được điều hành bởi Công ty Cổ phần Xe khách Sài Gòn
+06:09
+Vòng xoay Nguyễn Thái Sơn
+Đi bộĐi bộ
+ Khoảng 4 p , 240 m
+Hãy cẩn thận - có thể có lỗi hoặc các đoạn không thích hợp để đi bộ
+Đi về hướng Tây Nam trên Đường Nguyễn Thái Sơn
+ Băng qua Shop Thời Trang Việt Tiến (ở bên trái cách 51 m)
+Tại vòng xuyến, đi theo lối ra thứ 3 vào Bạch Đằng/Đường Nguyễn Thái Sơn
+ Băng qua Cửa hàng Trái cây nhập khẩu & Nông sản sạch Tâm An - Cửa hàng Gốm Nhật Mộc An (ở bên phải cách 65 m)
+ Điểm đến sẽ ở bên phải
+06:13
+	
+Chợ Tân Sơn Nhất
+Phường 3, Gò Vấp, Hồ Chí Minh, Việt Nam
