@@ -12,7 +12,8 @@ Liberty Central Saigon Centre Hotel
 
 ----------------------------------------------------
 
-243 Hai Bà Trưng
+
+243 Hai Bà Trưng <Lê văn tám park>, turn back. turn left
 Đi bộĐi bộ
  Khoảng 3 p
 05:56
