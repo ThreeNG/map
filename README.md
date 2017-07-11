@@ -5,7 +5,7 @@
 Đi bộĐi bộ Turn Left 
  Khoảng 4 p , 350 m
 05:36
-	
+	docker run -v <thư mục trên máy tính>:<thư mục trong container> -it <image name> /bin/bash
 Liberty Central Saigon Centre Hotel
 179 Lê Thánh Tôn, Bến Thành,
 http://bird.org/fuego/Fuego_Documentation
