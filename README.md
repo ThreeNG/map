@@ -10,7 +10,7 @@ Liberty Central Saigon Centre Hotel
 179 Lê Thánh Tôn, Bến Thành,
 http://bird.org/fuego/Fuego_Documentation
 https://www.successfactors.com/mobile 
-
+sed -i 's/something/other/g' filename.txt
 2) Return to this email, click this link https://performancemanager5.successfactors.eu/sfmobileredirect?company=renesasele&view=mobile 
 
 
