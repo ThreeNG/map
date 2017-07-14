@@ -1,7 +1,7 @@
 # map
  https://en.wikipedia.org/wiki/Graphics_pipeline
  https://en.wikipedia.org/wiki/Media_processor
- 
+ https://en.wikipedia.org/wiki/Uncompressed_video
  20 p (16 điểm dừng)
 05:32
 144 Pasteur
