@@ -2,6 +2,8 @@
  https://en.wikipedia.org/wiki/Graphics_pipeline
  https://en.wikipedia.org/wiki/Media_processor
  https://en.wikipedia.org/wiki/Uncompressed_video
+ 
+ https://stackoverflow.com/questions/2853803/in-a-shell-script-echo-shell-commands-as-they-are-executed
  20 p (16 điểm dừng)
 05:32
 144 Pasteur
