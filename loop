@@ -1,0 +1,21 @@
+if [ $EXEC_ES20 -eq 1 ]; then
+	for filename in $(find -name "OGLES2*" -type f )
+	do
+		echo ${filename}
+		
+		
+		
+		number=${FRAME_START_NO}
+		BmpNumber=0
+		
+		find -name "PVRShell*" -type f | sort >filelist1.txt
+		
+		cut -d'/' -f2 ./filelist1.txt >filelist2.txt
+		
+		filename3=filelist2.txt
+		cat ${filename3} | while read line
+		do
+			FileNo=$(printf "%04d" $number)
+			mv ${line} BMP/${filename}_frame$FileNo.bmp 
+   			number=`expr $number + 1`
+		done
