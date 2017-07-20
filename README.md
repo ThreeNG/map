@@ -4,6 +4,7 @@ https://www.youtube.com/user/pwangs/videos
 https://www.youtube.com/user/dilbert
 
 https://www.youtube.com/user/stiquitojmconrad
+https://en.wikipedia.org/wiki/RX_microcontroller_family
 
 https://kipalog.com/posts/Toi-da-dung-Docker-nhu-the-nao#toc-b-c-1-t-m-v-t-i-image-docker-cho-scala
 A song from 1902 written by Hughie Cannon
