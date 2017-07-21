@@ -13,6 +13,54 @@ https://en.wikipedia.org/wiki/RX_microcontroller_family
 https://www.youtube.com/playlist?list=PLf71xCcwMHpePeTfLdEmvAp9GhP2w4QTc
 
 https://kipalog.com/posts/Toi-da-dung-Docker-nhu-the-nao#toc-b-c-1-t-m-v-t-i-image-docker-cho-scala
+
+
+if [[ "$DEVICE" == *"Draak"* ]]; then
+    mkdir ../unable_to_run
+	echo "[device_script.sh] OGLES2ParticleSystem couldn't run on this device because it is not enough memory"
+	mv OGLES2ParticleSystem ../unable_to_run
+	echo "#!/bin/bash" >> OGLES2ParticleSystem.sh
+	echo " echo "Correct performance:    OGLES2ParticleSystem     FPS Average     nan" " >> OGLES2ParticleSystem.sh
+	chmod 777 OGLES2ParticleSystem.sh
+fi
+
+
+sh ${TEST_PATH}/run.sh
+
+if [[ "$DEVICE" == *"Draak"* ]]; then
+    mv ../unable_to_run/OGLES2ParticleSystem $TEST_PATH
+	rm OGLES2ParticleSystem.sh
+fi
+
+============================================================================================
+
+if [[ "$DEVICE" == *"Draak"* ]]; then
+    mkdir -p unable_to_run/CityTrain
+	mkdir -p unable_to_run/RoguePlanet
+	mkdir -p unable_to_run/SoftKitty
+	echo "CityTrain and RoguePlanet couldn't run on this device because it is not enough memory"
+	mv CityTrain/* unable_to_run/CityTrain
+	mv RoguePlanet/* unable_to_run/RoguePlanet
+	mv SoftKitty/* unable_to_run/SoftKitty
+	
+fi
+
+
+sh ${TEST_PATH}/run.sh
+
+if [[ "$DEVICE" == *"Draak"* ]]; then
+	mv unable_to_run/CityTrain/ $TEST_PATH
+	mv unable_to_run/RoguePlanet/ $TEST_PATH
+	mv unable_to_run/SoftKitty/ $TEST_PATH
+fi
+
+
+
+
+
+
+
+
 A song from 1902 written by Hughie Cannon
 https://www.youtube.com/watch?v=EDfjRSjj4kw
 https://www.youtube.com/watch?v=3X7a-8r2G0A
