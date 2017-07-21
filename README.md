@@ -1,3 +1,5 @@
+http://blog.pi3g.com/2013/05/weston-and-wayland-on-the-raspberry-pi-a-first-look/
+
 https://www.youtube.com/user/egoraptor/videos
 https://www.youtube.com/user/pwangs/videos
 
