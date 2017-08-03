@@ -1,3 +1,6 @@
+ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
+
+
 https://wiki.linuxfoundation.org/realtime/documentation/howto/tools/worstcaselatency
 
 http://blog.pi3g.com/2013/05/weston-and-wayland-on-the-raspberry-pi-a-first-look/
