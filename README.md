@@ -1,6 +1,15 @@
 ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
 
 https://www.tcs-home.org/ban-be/books/mo-hinh-an-du-cau-truc-tren-cu-lieu-ca-tu-trinh-cong-son/thanhhuyen-luan-van-v-1-0-1.pdf
+During 6:00 ~ 8:00, Ton Duc Thang street (Bach Dang park) will be reserved for activity to celebrate 50th anniversary of ASEAN.
+Alternative routes:
+Dist. 1 to Dist. 4: Ton Duc Thang (Dist.1) → Me Linh square → Hai Ba Trung → Le Thanh Ton or Nguyen Du → Nam Ky Khoi Nghia → Nguyen Thai Binh or Nguyen Cong Tru → Calmette → Doan Van Bo → Hoang Dieu → Nguyen Tan Thanh (Dist.4).
+Dist. 4 to Dist. 1: Nguyen Tan Thanh (Dist.4) → Hoang Dieu → Doan Van Bo → Calmette → Tran Hung Dao → Le Loi → Pasteur → Ly Tu Trong → Ton Duc Thang (Q.1).
+
+During 18:45 ~ 22:00, Le Thanh Ton street (city house) will be reserved for light show.
+Alternative routes:
+Option 1: Le Thanh Ton → Dong Khoi → Ton Duc Thang → Ham Nghi → Pasteur → Le Thanh Ton.
+Option 2: Le Thanh Ton → Hai Ba Trung → Nguyen Du → Nam Ky Khoi Nghia → Le Thanh Ton.
 
 
 
