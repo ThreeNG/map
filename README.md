@@ -1,5 +1,10 @@
 ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
 
+"DFT Circuit Structure & DFT Mode SCD Making"
+"HW Architecture for Linux Platform Development"
+"ARM Architecture - Buses & Environment"
+
+
 https://www.tcs-home.org/ban-be/books/mo-hinh-an-du-cau-truc-tren-cu-lieu-ca-tu-trinh-cong-son/thanhhuyen-luan-van-v-1-0-1.pdf
 During 6:00 ~ 8:00, Ton Duc Thang street (Bach Dang park) will be reserved for activity to celebrate 50th anniversary of ASEAN.
 Alternative routes:
