@@ -4,7 +4,7 @@ ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's
 "HW Architecture for Linux Platform Development"
 "ARM Architecture - Buses & Environment"
 
-
+https://linux.die.net/man/
 
 https://renesasgroup.sharepoint.com/sites/REL-portal/market-portalEN/default.aspx
 
