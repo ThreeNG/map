@@ -3,7 +3,7 @@ https://github.com/brannondorsey/wifi-cracking
 "DFT Circuit Structure & DFT Mode SCD Making"
 "HW Architecture for Linux Platform Development"
 "ARM Architecture - Buses & Environment"
-
+https://github.com/alexanderepstein/Bash-Snippets
 https://linux.die.net/man/
 
 https://renesasgroup.sharepoint.com/sites/REL-portal/market-portalEN/default.aspx
