@@ -6,6 +6,8 @@ https://github.com/brannondorsey/wifi-cracking
 https://github.com/alexanderepstein/Bash-Snippets
 https://linux.die.net/man/
 
+https://stackoverflow.com/questions/4780893/use-expect-in-bash-script-to-provide-password-to-ssh-command
+
 https://renesasgroup.sharepoint.com/sites/REL-portal/market-portalEN/default.aspx
 
 https://www.tcs-home.org/ban-be/books/mo-hinh-an-du-cau-truc-tren-cu-lieu-ca-tu-trinh-cong-son/thanhhuyen-luan-van-v-1-0-1.pdf
