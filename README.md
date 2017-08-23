@@ -1,3 +1,6 @@
+http://www.spinics.net/lists/
+
+
 ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
 https://github.com/brannondorsey/wifi-cracking
 "DFT Circuit Structure & DFT Mode SCD Making"
