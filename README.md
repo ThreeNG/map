@@ -1,3 +1,5 @@
+http://gnuplot.info/docs_5.0/gnuplot.pdf
+
 http://www.spinics.net/lists/
 
 
