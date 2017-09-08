@@ -1,4 +1,7 @@
 http://www.manythings.org/japanese/
+
+https://wiki.yoctoproject.org/wiki/Building_your_own_recipes_from_first_principles
+
 http://www.digitaldialects.com/Japanese.htm
 http://gnuplot.info/docs_5.0/gnuplot.pdf
 
